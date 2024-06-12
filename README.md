@@ -1,6 +1,6 @@
 <h1>MIAMI LANDING PAGE</h1>
 <ul>
-  <li><a href="https://olexandr-trubin-koshyk.github.io/miami-landing/" taget="_blank">DEMO LINK</a></li>
+  <li><a href="https://olexandr-trubin-koshyk.github.io/miami_landing/" taget="_blank">DEMO LINK</a></li>
   <li><a href="https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=0%3A1" taget="_blank">FIGMA MOCKUP</a></li>
 </ul>
 <h2>Description</h2>
